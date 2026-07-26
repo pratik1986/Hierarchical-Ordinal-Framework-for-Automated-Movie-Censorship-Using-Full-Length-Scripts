@@ -1,0 +1,41 @@
+===============================================================================
+File: sorted_old_to_new_filenames.txt
+
+Description:
+    Records filename corrections and movie rating updates identified during
+    manual verification of the movie script dataset.
+
+Purpose:
+    While constructing the movie script corpus for the paper
+    "Hierarchical Ordinal Framework for Automated Movie Censorship Using
+    Full-Length Scripts" (IEEE GCAT 2025), some downloaded scripts were found
+    to have incorrect filenames or outdated/inaccurate rating labels. This
+    file documents the mapping from the original filenames to their corrected
+    versions, ensuring consistency and traceability within the curated dataset.
+
+Format:
+    Original_Filename : Corrected_Filename
+
+Notes:
+    Entries marked "Could not determine correct filename" indicate scripts that
+    required additional manual verification before inclusion in the final
+    dataset.
+
+Author:
+    Pratik N. Kalamkar
+===============================================================================
+
+
+
+PG_13_Dave_Barrys_Complete_Guide_to_Guys_1995.txt : [Could not determine correct filename]
+PG_13_Ferris_Buellers_Day_Off_1986.txt : [Could not determine correct filename]
+PG_Frozen_Disney_2013.txt : [Could not determine correct filename]
+R_Harold_and_Kumar_Go_to_White_Castle_2004.txt : [Could not determine correct filename]
+PG_13_Malibus_Most_Wanted_2003.txt : [Could not determine correct filename]
+PG_13_Ace_Ventura_Pet_Detective_1994.txt : [Could not determine correct filename]
+NR_After_School_Special_2003.txt : [Could not determine correct filename]
+PG_Mr_Blandings_Builds_His_Dream_House_1948.txt : APPROVED_Mr._Blandings_Builds_His_Dream_House_1948.txt
+PG_Mr_Deeds_Goes_to_Town_1936.txt : APPROVED_Mr._Deeds_Goes_to_Town_1936.txt
+R_In_the_Loop_2009.txt : NOT RATED_In_the_Loop_2009.txt
+R_The_Replacements_2000.txt : PG_13_The_Replacements_2000.txt
+R_Custody_2016.txt : TV_14_Custody_2016.txt
