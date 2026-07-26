@@ -181,4 +181,16 @@ https://huggingface.co/pratikkalamkar
 
 # License
 
-Licensed under the Apache License 2.0.
+# Licensing
+
+This project uses different licenses for different research artifacts.
+
+| Component | License |
+|-----------|---------|
+| Source code | Apache License 2.0 |
+| Training notebooks | Apache License 2.0 |
+| Pretrained models | Apache License 2.0 |
+| Balanced dataset | CC BY-NC-SA 4.0 |
+| Unbalanced dataset | CC BY-NC-SA 4.0 |
+
+Please refer to the respective Hugging Face repositories for the complete licensing information.
